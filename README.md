@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'M Deinmo Munamuna
 
-<!--
-**Deinmomuna2/deinmomuna2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Welcome to my GitHub! I'm a passionate UI/UX designer and aspiring software engineer currently sharpening my skills through the ALX Software Engineering Program. I blend design thinking with technical problem-solving to create user-centered digital experiences.
 
-Here are some ideas to get you started:
+💡 What I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎨 Design intuitive and engaging user interfaces
+
+💻 Build and collaborate on projects
+
+📚 Always learning. 🔧 Always building. 🎯 Always improving.
+
+Feel free to explore my repositories, check out my latest work, or connect with me!
 -->
