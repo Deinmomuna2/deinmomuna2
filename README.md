@@ -1,6 +1,6 @@
 Hi, I'M Deinmo Munamuna
 
-<Welcome to my GitHub! I'm a passionate UI/UX designer and aspiring software engineer currently sharpening my skills through the ALX Software Engineering Program. I blend design thinking with technical problem-solving to create user-centered digital experiences.
+Welcome to my GitHub! I'm a passionate UI/UX designer and aspiring software engineer currently sharpening my skills through the ALX Software Engineering Program. I blend design thinking with technical problem-solving to create user-centered digital experiences.
 
 💡 What I do:
 
